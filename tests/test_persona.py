@@ -1,5 +1,6 @@
 import unittest
 import datetime
+import numpy
 from src.modelo.persona import Persona
 
 
