@@ -11,6 +11,7 @@ class Persona:
        self.__edad = edad
 
    def asignar_nombre(self, nombre):
+
        self.__nombre = nombre
 
    def dar_edad(self):
